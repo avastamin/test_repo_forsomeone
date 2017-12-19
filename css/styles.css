@@ -1,0 +1,47 @@
+html,
+body {
+      font-family: Arial, sans-serif;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      }
+
+#map {
+      height: 650px;
+      top: 30px;
+      bottom: 30px;
+      left: 0px;
+      right: 0px;
+      }
+
+#title {
+      text-align: center;
+      margin-top: 50px;
+
+}
+
+#list-box {
+        text-align: center;
+        margin-top: 50px;
+}
+
+#filter {
+        margin-top: 30px;
+        width: 200px;
+        height: 30px;
+}
+
+#lists {
+    margin-top: 50px;
+}
+
+#nameList {
+        margin-top: 35px;
+        font-size: 20px;
+        text-align: left;
+}
+
+#pano {
+        width: 200px;
+        height: 200px;
+      }
